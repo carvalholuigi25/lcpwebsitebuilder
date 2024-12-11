@@ -51,7 +51,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Powered by [Next.js][https://nextjs.org] & [GrapesJS](https://grapesjs.com)
+Powered by [Next.js](https://nextjs.org) & [GrapesJS](https://grapesjs.com)
 
 ## Learn More
 
