@@ -56,10 +56,11 @@ Powered by [Next.js](https://nextjs.org) & [GrapesJS](https://grapesjs.com)
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js and GrapesJS, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [GrapesJS Documentation](https://grapesjs.com/docs/) - learn about GrapesJS
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
