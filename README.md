@@ -2,9 +2,42 @@
 
 LCP Website Builder is a project where you can create your own websites by using this webapp tool.
 
+## Prerequisites
+
+```text
+-PC (with one of operating systems: Windows or Linux or Mac OS)
+-Git
+-Learn all (or important, like HTML, CSS, JS, etc...) Web Programming Languages (skip it if you learned and mastered it 100%)
+-GrapesJS Studio SDK License Key (required)
+```
+
 ## Getting Started
 
-First, run the development server:
+1º - Clone this project (or fork it).
+
+```git
+git clone https://github.com/carvalholuigi25/lcpwebsitebuilder
+```
+
+2º - Install this project on your PC:
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+3º - Go to [GrapesJS SDK website](https://app.grapesjs.com/docs-sdk/overview/licenses) and create a license. Also, create a .env on your project and save it:
+
+```bash
+LICENSEKEY="YOUR-LICENSE-KEY-FROM-GRAPESJS-SDK-WEBSITE"
+```
+
+4º - Then, finally, run the development server on your PC:
 
 ```bash
 npm run dev
@@ -18,7 +51,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Powered by [Next.js][https://nextjs.org] & [GrapesJS](https://grapesjs.com)
 
 ## Learn More
 
