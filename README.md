@@ -6,8 +6,9 @@ LCP Website Builder is a project where you can create your own websites by using
 
 ```text
 -PC (with one of operating systems: Windows or Linux or Mac OS)
--Git
 -Learn all (or important, like HTML, CSS, JS, etc...) Web Programming Languages (skip it if you learned and mastered it 100%)
+-Git (required)
+-NPM or Yarn or PNPM or Bun (required)
 -GrapesJS Studio SDK License Key (required)
 ```
 
